@@ -1,4 +1,4 @@
-const http = require('node:http');
+const http = require('http');
 
 const hostname = 'http://localhost:3000/';
 const port = 3000;
